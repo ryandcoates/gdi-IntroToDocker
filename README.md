@@ -49,9 +49,21 @@ Again, utilizing an application manager is the preferred method, so for MacOS th
 
 `brew cask install docker`
 
+<<<<<<< HEAD
 #### Direct Download
 
 Again, custom tools aren't for everyone, and Docker.com has a well documented setup guide for MacOS users also:
 
 [Docker for Mac](https://hub.docker.com/editions/community/docker-ce-desktop-mac)
 
+=======
+## Wutta Docker?
+
+## Basic Docker commands
+
+## Docker Lab 1
+
+## Docker Lab 2
+
+## Multi-stage builds
+>>>>>>> ee48d0019319d5641fa06a476dbae8dba1efd17c
